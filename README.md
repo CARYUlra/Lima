@@ -1,5 +1,5 @@
 Markdown
-# 🏷️ Fundamentos de Linguagens de Marcação: HTML, XML e Markdown
+# 🏷️ Fundamentos de Linguagens de Marcação: XML e Markdown
 
 > Estudo analítico e prático sobre a estruturação de dados, textos e interfaces digitais através de linguagens de marcação.
 
