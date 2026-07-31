@@ -54,7 +54,7 @@ A atividade inclui uma pesquisa teórica aprofundada sobre o **XML** e a entrega
         ├── empresa
         ├── pedido_de_venda
         ├── sistema_escolar
-        └── README.md                 # Documentação principal do repositório
+        └── README.md
 ````
 🔍 Pesquisa Aprofundada: XML
 A pesquisa desenvolvida neste projeto aborda os seguintes pontos chave da linguagem XML:
