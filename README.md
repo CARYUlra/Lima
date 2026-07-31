@@ -49,6 +49,7 @@ A atividade inclui uma pesquisa teórica aprofundada sobre o **XML** e a entrega
     └── S1_AT2_R1_LIMA
         ├── cadrastro_do_aluno
         ├── cadrastro_de_livro
+        ├── cadrastro_de_produto
         ├── empresa
         ├── pedido_de_venda
         ├── sistema_escolar
