@@ -46,13 +46,15 @@ A atividade inclui uma pesquisa teórica aprofundada sobre o **XML** e a entrega
 ## 📁 Estrutura do Repositório
 
 ```text
-├── docs/
-│   └── pesquisa-xml.md       # Estudo aprofundado sobre a linguagem XML
-├── exercicios/
-│   ├── exercicio-1.xml       # Resolução do exercício 1 (Estrutura XML)
-│   ├── exercicio-2.html      # Resolução do exercício 2 (Marcação HTML)
-│   └── respostas.md          # Respostas teóricas e análises comparativas
-└── README.md                 # Documentação principal do repositório
+├── atividades
+└── exercicios
+    └── S1_AT2_R1_LIMA
+        ├── cadrastro_do_aluno
+        ├── cadrastro_de_livro
+        ├── empresa
+        ├── pedido_de_venda
+        ├── sistema_escolar
+        └── README.md                 # Documentação principal do repositório
 ````
 🔍 Pesquisa Aprofundada: XML
 A pesquisa desenvolvida neste projeto aborda os seguintes pontos chave da linguagem XML:
