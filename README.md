@@ -45,7 +45,7 @@ A atividade inclui uma pesquisa teórica aprofundada sobre o **XML** e a entrega
 ## 📁 Estrutura do Repositório
 
 ```text
-├── atividades
+└── atividades
     └── S1_AT2_R1_LIMA
         ├── cadrastro_do_aluno
         ├── cadrastro_de_livro
