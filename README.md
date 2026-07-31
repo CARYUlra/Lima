@@ -47,7 +47,6 @@ A atividade inclui uma pesquisa teórica aprofundada sobre o **XML** e a entrega
 
 ```text
 ├── atividades
-└── exercicios
     └── S1_AT2_R1_LIMA
         ├── cadrastro_do_aluno
         ├── cadrastro_de_livro
