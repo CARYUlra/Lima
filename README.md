@@ -1,4 +1,3 @@
-Markdown
 # 🏷️ Fundamentos de Linguagens de Marcação: XML e Markdown
 
 > Estudo analítico e prático sobre a estruturação de dados, textos e interfaces digitais através de linguagens de marcação.
@@ -82,3 +81,4 @@ Os arquivos .md podem ser lidos diretamente na interface do GitHub ou em qualque
 Os arquivos .xml podem ser validados no navegador ou em editores como o Visual Studio Code com extensões de XML.
 
 Os arquivos .html podem ser abertos em qualquer navegador web (Chrome, Firefox, Edge).
+<img width="1000" height="500" alt="programming-languages" src="https://github.com/user-attachments/assets/41d93f62-2010-4630-9e34-338ef818e2b5" />
