@@ -1,0 +1,44 @@
+body{
+    font-family: cursive;
+    background-color: lightblue;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    font-size:  67px;
+    font-family: cursive;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRowkd2iu_e_SC-lcKJz_5yM_u2frjMLT37y10NUFLAA&s=10');
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.elemento-colorido {
+  width: 200px;
+  height: 200px;
+  animation: mudaCor 5s infinite;
+@keyframes mudaCor {
+  0% {
+    background-color: rgb(255, 255, 255);
+  }
+  50% {
+    background-color: rgb(0, 255, 255);
+  }
+  100% {
+    background-color: rgba(0, 255, 255, 0.5);
+  }
+}
+}
+/* Aplica a animação em uma classe ou elemento */
+
+.borda-colorida {
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 10px; /* Opcional: arredondar cantos */
+  animation: mudarCor 2s infinite;
+}
+
+@keyframes mudarCor {
+  0%   { border-color: rgb(255, 255, 255); }
+  25%  { border-color: rgba(0, 255, 255, 0.5); }
+  50%  { border-color: rgba(0, 255, 255, 1); }
+  75%  { border-color: rgba(0, 255, 255, 0.5); }
+  100% { border-color: rgb(255, 255, 255); }
+}

@@ -1,0 +1,12 @@
+body{
+    font-family: cursive;
+    background-color: lightblue;
+}
+#parágrafo, .parágrafo{
+    color: rgb(255, 255, 255);
+    font-size:  67px;
+    font-family: cursive;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRowkd2iu_e_SC-lcKJz_5yM_u2frjMLT37y10NUFLAA&s=10');
+    padding: 20px;
+    border-radius: 20px;
+}
